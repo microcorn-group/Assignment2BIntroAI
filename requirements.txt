@@ -1,0 +1,7 @@
+matplotlib
+networkx
+folium
+numpy
+Pillow
+tensorflow
+scikit-learn
